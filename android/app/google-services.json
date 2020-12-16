@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661359886167",
+    "firebase_url": "https://online-outdoor-pass.firebaseio.com",
+    "project_id": "online-outdoor-pass",
+    "storage_bucket": "online-outdoor-pass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661359886167:android:b835ad8468cd6a81",
+        "android_client_info": {
+          "package_name": "com.example.outdoor_pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661359886167-6mpqiptgu9fiopqgtjbct8b33ooquu2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIj0Ii1gizSA9utVtQVWeG4RwDeyVeAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661359886167-6mpqiptgu9fiopqgtjbct8b33ooquu2f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661359886167-bvj33i7656n5r0bekun4lo6ih2mubsv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.manipalOnlineOutdoorPass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

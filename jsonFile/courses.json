@@ -1,0 +1,109 @@
+[
+  {
+    "Branch": "BTECH",
+    "courses": ["ELECTRICAL ENGINEERING","ELECTRONICS & COMMUNICATION ENGINEERING","COMPUTER SCIENCE ENGINEERING","MECHANICAL ENGINEERING","CIVIL ENGINEERING","INFORMATION TECHNOLOGY","CHEMICAL ENGINEERING","MECHATRONICS","AUTOMOBILE ENGINEERING","COMPUTER AND COMMUNICATION ENGINEERING"]
+  },
+
+  {
+    "Branch": "MBA",
+    "courses": ["HUMAN RESOURCE MANAGEMENT","FINANCE","MARKETING"]
+  },
+
+  {
+    "Branch": "B.TECH {LATERAL}",
+    "courses": ["ELECTRICAL ENGINEERING","ELECTRONICS & COMMUNICATION ENGINEERING","COMPUTER SCIENCE ENGINEERING","MECHANICAL ENGINEERING","CIVIL ENGINEERING","INFORMATION TECHNOLOGY","CHEMICAL ENGINEERING","MECHATRONICS","AUTOMOBILE ENGINEERING","COMPUTER AND COMMUNICATION ENGINEERING"]
+  },
+  {
+    "Branch": "B.SC {HONS.}",
+    "courses": ["MATHEMATICS","CHEMISTRY","PHYSICS","MICROBIOLOGY","BIOTECHNOLOGY","PSYCHOLOGY"]
+  },
+  {
+    "Branch": "B.A {HONS.}",
+    "courses": ["ENGLISH","PSYCHOLOGY","ECONOMICS"]
+  },
+  {
+    "Branch": "B.DES",
+    "courses": ["INTERIOR DESIGN","FASHION DESIGN"]
+  },
+  {
+    "Branch": "B.ARCH",
+    "courses": []
+  },
+  {
+    "Branch": "BPES",
+    "courses": []
+  },
+  {
+    "Branch": "BA",
+    "courses": []
+  },
+  {
+    "Branch": "B.COM",
+    "courses": []
+  },
+  {
+    "Branch": "B.F.A",
+    "courses": []
+  },
+  {
+    "Branch": "BBA + L.L.B {HONS.}",
+    "courses": []
+  },
+  {
+    "Branch": "L.L.B",
+    "courses": []
+  },
+  {
+    "Branch": "BALLB {HONS.}",
+    "courses": []
+  },
+  {
+    "Branch": "BHM",
+    "courses": []
+  },
+  {
+    "Branch": "BBA",
+    "courses": []
+  },
+  {
+    "Branch": "B.COM {HONS.}",
+    "courses": []
+  },
+  {
+    "Branch": "BCA",
+    "courses": []
+  },
+  {
+    "Branch": "M.TECH",
+    "courses": ["MANUFACTURING ENGINEERING","VLSI DESIGN & EMBEDDED SYSTEM","POWER ELECTRONICS AND DRIVES","STRUCTURAL ENGINEERING","COMMUNICATION SYSTEMS","ENVIRONMENTAL ENGINEERING","DATA SCIENCE AND ENGINEERING","INFORMATION SECURITY","COMPUTER AIDED DESIGN"]
+  },
+  {
+    "Branch": "M.SC",
+    "courses": []
+  },
+  {
+    "Branch": "L.L.M",
+    "courses": []
+  },
+  {
+    "Branch": "M.C.A",
+    "courses": []
+  },
+  {
+    "Branch": "M.A",
+    "courses": []
+  },
+  {
+    "Branch": "M.COM",
+    "courses": []
+  },
+  {
+    "Branch": "M.ARCH",
+    "courses": []
+  },
+  {
+    "Branch": "PH.D",
+    "courses": []
+  }
+]
+
